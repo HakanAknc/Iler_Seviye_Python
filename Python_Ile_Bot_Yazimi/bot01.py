@@ -1,0 +1,1 @@
+print("Eğitim devam edecektir.")
